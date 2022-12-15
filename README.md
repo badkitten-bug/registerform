@@ -1,1 +1,4 @@
 # FormRegisterWithDarkMode
+
+# Normal mode:
+
